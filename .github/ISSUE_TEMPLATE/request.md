@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### **About**
-Describe
+
 
 ### **Example (OPTIONAL)**
-Show how it looks like.
+
