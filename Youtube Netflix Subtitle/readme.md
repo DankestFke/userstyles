@@ -3,7 +3,9 @@ Derives from @ang3lo_azedo's "YouTube Netflix Subtitles". This userstyle focused
 
 ### Table of content
 [Features](#Features)
+
 [Changelog](#Changelog)
+
 [Notice](#Notice)
 
 ## Features
