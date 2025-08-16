@@ -1,7 +1,7 @@
 <h1 align="center"> YouTube Netflix Subtitle </h1>
 Derives from @ang3lo_azedo's "YouTube Netflix Subtitles". This userstyle focused on customization on subtitles.
 
-Head to if you want to suggest or encountered any bugs [issues](https://github.com/DankestFke/userstyles/issues).
+Head to [issues](https://github.com/DankestFke/userstyles/issues) if you want to suggest or encountered any bugs.
 
 ### Table of content
 [Features](#Features)
