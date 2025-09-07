@@ -1,13 +1,13 @@
 Submit any issues on [GitHub](https://github.com/DankestFke/userstyles/issues/new/choose) or through reviews.
 
-<h1 align="center"> YouTube Netflix Subtitle </h1>
+<h1 id="title" align="center"> YouTube Netflix Subtitle </h1>
 
 Derives from @ang3lo_azedo's [YouTube Netflix Subtitles](https://uso.kkx.one/style/206563). This userstyle focused of hardcore customization on subtitles.
 
 I recommend you to use [Hyper's YouTube Subtitles/CC Options](https://userstyles.world/style/18961) if you prefer simplicity.
 
 
-### / [Install](https://userstyles.world/api/style/23682.user.css) \/\ [Userstyles.world](https://userstyles.world/style/23682/) \\
+### [ [Install](https://userstyles.world/api/style/23682.user.css) | [Userstyles.world](https://userstyles.world/style/23682/) ]
 
 ### Table of content
 [ [Screenshot](#screenshot) |
@@ -21,7 +21,7 @@ I recommend you to use [Hyper's YouTube Subtitles/CC Options](https://userstyles
 <table>
  <tr>
 	<td>​These are all the options in YCS </td>
-	<td><img src="screenshot/SubtitleOptions.png" style="border-radius: 2px;" alt="All Subtitle Options" width="auto" height="300px" ></td>
+	<td><img src="screenshot/SubtitleOptions.png" style="border-radius: 2px;" alt="All Subtitle Options" width="auto" height="350px" ></td>
  </tr>
 </table>
 
@@ -32,7 +32,7 @@ I recommend you to use [Hyper's YouTube Subtitles/CC Options](https://userstyles
 - Rounded text outline (Thanks to  [Hyper's YouTube Subtitles/CC Options](https://userstyles.world/style/18961))
 
 > [!IMPORTANT]
-> Firefox and Chromium browsers have different -webkit-text-stroke methods, you will get rounded outline on Firefox with "Sharp Outline" for now
+> Firefox and Chromium browsers have different `-webkit-text-stroke` methods, you will get rounded outline on Firefox with "Sharp Outline" style for now.
 
 
 #### Bucket List
@@ -57,7 +57,7 @@ I recommend you to use [Hyper's YouTube Subtitles/CC Options](https://userstyles
 - Added "Blend Mode"
 - Refactored Codes
 
-__This might be the last update for now__
+__This might be the last update for now, the rest will be fixes and optimizations.__
 
 ### 2025816.1.37
 - Hide subtitle on hover minor fix for animated subtitles
@@ -75,3 +75,5 @@ __This might be the last update for now__
 > Some ideas might not be added because YouTube already included themselves.  
 Rounded Outline might affect low spec user.  
 SF Pro fonts is Apple's trademark and under APSL V2 license.
+
+[Back To Top](#title)
