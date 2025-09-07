@@ -16,9 +16,8 @@ I recommend you to use [Hyper's YouTube Subtitles/CC Options](https://userstyles
 [Notice](#Notice) ]
 
 ## Screenshot
-<img src="screenshot/DefaultView.png" style="border-radius: 2px;border: 1px solid #454545" alt="Default Settings" width="auto" height="250px"><img src="screenshot/WithOptions.png" style="border-radius: 2px;border: 1px solid #454545" alt="Used Options" width="auto" height="252.5px"><img src="screenshot/SubtitleOptions.png" style="border-radius: 2px;" alt="All Subtitle Options" width="auto" height="253.5px">
+<img src="screenshot/DefaultView.png" style="border-radius: 2px;border: 1px solid #454545" alt="Default Settings" width="auto" height="200px"><img src="screenshot/WithOptions.png" style="border-radius: 2px;border: 1px solid #454545" alt="Used Options" width="auto" height="200px"><img src="screenshot/SubtitleOptions.png" style="border-radius: 2px;" alt="All Subtitle Options" width="auto" height="200px" >
 
-> Third image is not related to image 2. It shows customization options.
 ## Features
 - Font Configuration
 - Subtitle Window Configuration
